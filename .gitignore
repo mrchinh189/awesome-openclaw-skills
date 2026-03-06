@@ -1,0 +1,8 @@
+# Generated output files
+template.docx
+*.docx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
